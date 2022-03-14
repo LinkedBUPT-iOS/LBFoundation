@@ -1,0 +1,6 @@
+framework module LBFoundation {
+  umbrella header "LBFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}

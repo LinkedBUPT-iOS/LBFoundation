@@ -1,0 +1,22 @@
+{
+  "name": "LBFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of LBFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/grizzlyzhao/LBFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "grizzlyzhao": "grizzlyzhao@tencent.com"
+  },
+  "source": {
+    "git": "https://github.com/grizzlyzhao/LBFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LBFoundation/Classes/**/*"
+}

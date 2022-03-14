@@ -1,0 +1,16 @@
+PODS:
+  - LBFoundation (0.1.0)
+
+DEPENDENCIES:
+  - LBFoundation (from `../`)
+
+EXTERNAL SOURCES:
+  LBFoundation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBFoundation: eba7a88f217ced3abcffaff216a9b0e75e6b6d66
+
+PODFILE CHECKSUM: 95f40d58e363440f943acd46c177eb66f07d22c8
+
+COCOAPODS: 1.10.1
