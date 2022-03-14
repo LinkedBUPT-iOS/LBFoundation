@@ -1,0 +1,12 @@
+//
+//  LBFoundationPrefixHeader.pch
+//  
+//
+//  Created by Westfield Zhao on 2022/3/13.
+//
+
+#ifndef LBFoundationPrefixHeader_h
+#define LBFoundationPrefixHeader_h
+
+#import "LBFoundatinoDefine.h"
+#endif /* LBFoundationPrefixHeader_h */
