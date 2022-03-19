@@ -8,5 +8,5 @@
 #ifndef LBFoundationPrefixHeader_h
 #define LBFoundationPrefixHeader_h
 
-#import "LBFoundatinoDefine.h"
+#import "LBFoundationDefine.h"
 #endif /* LBFoundationPrefixHeader_h */

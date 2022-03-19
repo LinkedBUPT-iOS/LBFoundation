@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LBFoundation: eba7a88f217ced3abcffaff216a9b0e75e6b6d66
+  LBFoundation: 57367b0d3586000f602b2b8c82158ffa0c3b2e0e
 
 PODFILE CHECKSUM: 95f40d58e363440f943acd46c177eb66f07d22c8
 
