@@ -1,0 +1,28 @@
+{
+  "name": "LBFoundation",
+  "version": "0.1.1",
+  "summary": "LBFoundation pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LinkedBUPT-iOS/LBFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bjx-cyber": "1770938826@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LinkedBUPT-iOS/LBFoundation.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LBFoundation/**/*.{h,m}",
+  "prefix_header_file": "LBFoundation/LBFoundationPrefixHeader.pch",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
